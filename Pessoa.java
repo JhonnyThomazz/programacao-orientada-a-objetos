@@ -1,9 +1,11 @@
 package programação_orientada_a_objetos;
 
-public class exemplo1_pessoa {
+public class Pessoa {
 String nome;
 String endereco;
 String profissao;
+String CPF;
+String RG;
 int idade;
 public String getnome() {
 	return nome;
@@ -28,5 +30,17 @@ public String getprofissao() {
 }
 public void setprofissao(String profissao) {
 	this.profissao = profissao;
+}
+public String getCPF( ) {
+	return CPF;
+}
+public void setCPF(String CPF) {
+	this.CPF = CPF;
+}
+public String getRG() {
+	return RG;
+}
+public void setRG(String RG) {
+	this.RG = RG;
 }
 }
