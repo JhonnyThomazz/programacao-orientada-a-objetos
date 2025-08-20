@@ -1,6 +1,6 @@
 package programação_orientada_a_objetos;
 
-public class ex02 {
+public class Objeto_pessoa {
 
 	public static void main(String[] args) {
 		Pessoa pessoa1 = new Pessoa();
