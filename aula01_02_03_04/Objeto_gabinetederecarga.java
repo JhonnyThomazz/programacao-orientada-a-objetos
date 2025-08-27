@@ -1,4 +1,4 @@
-package programação_orientada_a_objetos;
+package programação_orientada_a_objetos.aula01_02_03_04;
 
 public class Objeto_gabinetederecarga {
 
