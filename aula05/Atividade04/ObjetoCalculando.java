@@ -27,7 +27,7 @@ public class ObjetoCalculando {
 			System.out.println("\nDivisão = " + calculo01.divisao());
 		} 
 			catch (Exception error) {
-			System.out.println("Erro de digitação ou dados inválidos!");
+			System.out.println("\nNão há divisão por zero!");
 		}
 
 		System.out.println("\nExponencial = " + calculo01.exponencial());
