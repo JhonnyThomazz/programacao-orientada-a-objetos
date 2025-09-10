@@ -1,4 +1,4 @@
-package programação_orientada_a_objetos.aula07.ObjetoPrincipal.Exemplo;
+package programação_orientada_a_objetos.aula07.ObjetoPrincipalEnumExemplo.Exemplo;
 
 import programação_orientada_a_objetos.aula07.Enum.Exemplo.MesEnum;
 
