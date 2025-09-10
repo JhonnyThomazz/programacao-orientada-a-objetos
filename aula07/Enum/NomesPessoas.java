@@ -1,0 +1,25 @@
+package programação_orientada_a_objetos.aula07.Enum;
+
+public enum NomesPessoas {
+	MARIA,
+	JOÃO,
+	THOMAZ,
+	MARIANA,
+	BRUNO,
+	KEN,
+	RYU,
+	CHUN_LI,
+	GUILE,
+	ZANGUIEF,
+	DHALSIM,
+	VEGA,
+	RALF_JONES,
+	TERRY_BOGARD,
+	ANDY_BOGARD,
+	GUEESE_HOWARD,
+	MAI_SHIRANUI,
+	DANTE_SPARDA,
+	VERGIL_SPARDA,
+	NERO_SPARDA;
+	
+}
