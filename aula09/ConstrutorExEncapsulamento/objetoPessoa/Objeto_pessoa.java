@@ -1,4 +1,6 @@
-package programação_orientada_a_objetos.aula01_02_03_04;
+package programação_orientada_a_objetos.aula09.ConstrutorExEncapsulamento.objetoPessoa;
+
+import programação_orientada_a_objetos.aula09.ConstrutorExEncapsulamento.classePessoa.Pessoa;
 
 public class Objeto_pessoa {
 

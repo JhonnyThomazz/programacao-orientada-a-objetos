@@ -1,4 +1,4 @@
-package programação_orientada_a_objetos.aula01_02_03_04;
+package programação_orientada_a_objetos.aula09.ConstrutorExEncapsulamento.classePessoa;
 
 public class Pessoa {
 String nome;
