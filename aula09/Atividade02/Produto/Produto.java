@@ -23,7 +23,7 @@ public class Produto {
 	}
 	
 	public void exibirInformacoes() {
-		System.out.println(nome);
-		System.out.println(preco);
+		System.out.println(this.nome);
+		System.out.println(this.preco);
 	}
 }
